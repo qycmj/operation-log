@@ -1,15 +1,15 @@
 {
     "name": "dcat-admin/operation-log",
     "alias": "",
-    "description": "Description...",
+    "description": "operation-log",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
-    "homepage": "https://github.com/dcat-admin/operation-log",
+    "homepage": "https://github.com/qycmj/operation-log.git",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "qyc",
+            "email": "qizyyc@163.com"
         }
     ],
     "require": {
